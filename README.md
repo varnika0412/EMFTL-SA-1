@@ -1,8 +1,8 @@
-###Differential Form of Maxwell’s Equations###
+📘 Differential Form of Maxwell’s Equations
 
 Maxwell’s equations form the backbone of classical electromagnetism. In their differential form, they describe how electric and magnetic fields behave at individual points in space using calculus operations such as divergence, curl, and time derivatives. These equations explain fundamental electromagnetic behavior that powers technologies like wireless communication, radar, antennas, fiber optics, MRI, and power systems.
 
-##Introduction##
+📚 Introduction
 
 The differential form of Maxwell’s equations expresses electromagnetic laws locally. While the integral form considers entire surfaces or loops, the differential form tells us what happens at a single point in space.
 
@@ -29,13 +29,11 @@ Radar and satellites
 Numerical methods like FDTD and FEM
 
 📊 Diagram 1 — Vector Operators Overview
-```
 flowchart LR
     A["Electric Field **E**"] --> B["∇·E (Divergence)"]
     A --> C["∇×E (Curl)"]
     D["Magnetic Field **B**"] --> E["∇·B (Divergence)"]
     D --> F["∇×B (Curl)"]
-```
 
 
 This illustrates how divergence and curl act on electromagnetic fields.
