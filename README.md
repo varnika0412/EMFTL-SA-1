@@ -188,7 +188,8 @@ Field loops from North → South outside, and South → North inside.
 Magnetic domains form loops; they never start or end.
 
 <br>
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/0b9ef849-ae95-4bcf-bccb-45ac87406ffe" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/428a09e3-9275-41e6-b739-d5f843edbcbd" />
+
 <br>
 
 
